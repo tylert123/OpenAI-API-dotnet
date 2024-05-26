@@ -15,9 +15,9 @@
 		<Title>OpenAI API</Title>
 		<PackageReleaseNotes>Adds new embedding models as of March 2024</PackageReleaseNotes>
 		<PackageId>OpenAI</PackageId>
-		<Version>1.11</Version>
-		<AssemblyVersion>1.11.0.0</AssemblyVersion>
-		<FileVersion>1.11.0.0</FileVersion>
+		<Version>1.12</Version>
+		<AssemblyVersion>1.12.0.0</AssemblyVersion>
+		<FileVersion>1.12.0.0</FileVersion>
 		<GenerateDocumentationFile>True</GenerateDocumentationFile>
 		<PackageReadmeFile>README.md</PackageReadmeFile>
 		<ProduceReferenceAssembly>True</ProduceReferenceAssembly>
